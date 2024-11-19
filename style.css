@@ -1,0 +1,67 @@
+
+                   
+                    .calculator {
+                        max-width: 400px;
+                        margin: 50px auto;
+                        padding: 20px;
+                        border-radius: 10px;
+                        background-color: #fff;
+                        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+                    }
+                     .calculator input {
+                        font-size: 2rem;
+                        text-align: right;
+                        padding: 20px;
+                        width: 100%;
+                        border-radius: 10px;
+                        border: 2px solid #ddd;
+                        margin-bottom: 20px;
+                    }
+                  .calculator .row {
+                        margin-bottom: 10px;
+                       
+                        
+                    }
+                      .calculator .col-3 {
+                        padding: 10px;
+                        font-size: 1.5rem;
+                        cursor: pointer;
+                        border-radius: 10px;
+                        
+                        
+                        
+                       
+                    }
+                 .calculator .col-3:hover {
+                        background-color: darkorange;
+                    }
+                      .calculator .col-3:active {
+                        background-color: bisque;
+                    }
+                    .spclColor {
+                        background-color: darkgoldenrod;
+                        color: rgb(236, 234, 234);
+                    }
+                    
+              .equalto{
+                    height: 50px;
+                    
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    text-align: center;
+                    border-radius: 10px;
+                    background-color: darkgoldenrod;
+                    color: white;
+                    
+                
+              }
+              .equalto:hover{
+                    background-color: darkorange;
+              }
+
+              .equalto:active{
+                    background-color: bisque;
+              }
+
+              
